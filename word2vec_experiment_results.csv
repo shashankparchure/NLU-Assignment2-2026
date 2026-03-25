@@ -1,0 +1,17 @@
+0,1,2,3
+skipgram,50,2,5
+cbow,50,2,5
+skipgram,50,2,10
+cbow,50,2,10
+skipgram,50,4,5
+cbow,50,4,5
+skipgram,50,4,10
+cbow,50,4,10
+skipgram,100,2,5
+cbow,100,2,5
+skipgram,100,2,10
+cbow,100,2,10
+skipgram,100,4,5
+cbow,100,4,5
+skipgram,100,4,10
+cbow,100,4,10

@@ -1,0 +1,6 @@
+
+DATASET STATISTICS
+-------------------
+Total Documents: 38
+Total Tokens: 179990
+Vocabulary Size: 17047
